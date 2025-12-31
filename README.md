@@ -52,10 +52,14 @@ Model eğitiminde aşağıdaki optimizasyon algoritmaları kullanılmış ve kı
 
 Aşağıda eğitim süreci sonucunda elde edilen maliyet (cost) grafikleri ve sınıflandırma örnekleri yer almaktadır.
 
-### Eğitim Maliyet Grafikleri
+### GD t-SNE Grafiği
 
-![Maliyet Grafiği](gorseller/cost_graph.png)
+![GD Grafiği](Graphics/Gradient_D_T_SNE.png)
 
-### Sınıflandırma Örnekleri
+### SGD t-SNE Grafiği
 
-![Örnek Sonuçlar](gorseller/ornek_sonuc.png)
+![SGD Grafiği](Graphics/S_Gradient_D_T_SNE.png)
+
+### ADAM t-SNE Grafiği
+
+![ADAM Grafiği](Graphics/ADAM_T_SNE.png)
